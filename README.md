@@ -1,5 +1,11 @@
 # Icing
 
+[![Gem Version](https://badge.fury.io/rb/icing.svg)](https://badge.fury.io/rb/icing)
+[![Build Status](https://travis-ci.org/eugeniobruno/icing.svg?branch=master)](https://travis-ci.org/eugeniobruno/icing)
+[![Coverage Status](https://coveralls.io/repos/github/eugeniobruno/icing/badge.svg?branch=master)](https://coveralls.io/github/eugeniobruno/icing?branch=master)
+[![Code Climate](https://codeclimate.com/github/eugeniobruno/icing.svg)](https://codeclimate.com/github/eugeniobruno/icing)
+[![Dependency Status](https://gemnasium.com/eugeniobruno/icing.svg)](https://gemnasium.com/eugeniobruno/icing)
+
 Icing is a framework to reify and work with composable decorations.
 
 ## Installation
